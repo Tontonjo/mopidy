@@ -16,7 +16,6 @@ sudo dpkg-reconfigure mopidy
 sudo python3 -m pip install Mopidy-MusicBox-Webclient
 sudo python3 -m pip install Mopidy-Subidy
 sudo python3 -m pip install Mopidy-MPD
-sudo python3 -m pip install Mopidy-Youtube
 
 ###########################################################
 
