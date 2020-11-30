@@ -1,5 +1,5 @@
-mopidy installation guide:
-Tested on the 30.11.2020 - there may have been some changes since:-)
+# Mopidy installation guide:
+# Tested on the 30.11.2020 - there may have been some changes since:-)
 
 sudo apt-get update
 sudo apt-get upgrade
@@ -17,7 +17,6 @@ sudo python3 -m pip install Mopidy-Youtube
 
 ###########################################################
 
-Commands:
 sudo mopidyctl config
 sudo nano "/etc/mopidy/mopidy.conf"
 
